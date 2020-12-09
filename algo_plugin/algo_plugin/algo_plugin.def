@@ -1,0 +1,12 @@
+; algo_plugin.def : 声明 DLL 的模块参数。
+
+LIBRARY
+
+EXPORTS
+    ; 此处可以是显式导出
+
+	dynamic_init
+	dynamic_func_a
+	dynamic_func_b
+	dynamic_func_c
+	dynamic_func_d
