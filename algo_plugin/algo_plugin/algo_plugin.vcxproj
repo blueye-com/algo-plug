@@ -50,7 +50,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <OutDir>D:\策略训练版\</OutDir>
+    <OutDir>D:\Program Files (x86)\BLUEYE</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -91,7 +91,7 @@
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <ModuleDefinitionFile>.\algo_plugin.def</ModuleDefinitionFile>
-      <OutputFile>D:\策略训练版\algo_plugin.dll</OutputFile>
+      <OutputFile>D:\Program Files (x86)\BLUEYE\algo_plugin.dll</OutputFile>
     </Link>
     <Midl>
       <MkTypLibCompatible>false</MkTypLibCompatible>

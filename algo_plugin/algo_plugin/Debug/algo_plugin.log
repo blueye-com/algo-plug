@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  Algorithms.cpp
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(17): warning C4305: “初始化”: 从“double”到“float”截断
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(118): warning C4305: “=”: 从“double”到“float”截断
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+d:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\algorithms.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+  algo_plugin.cpp
+  正在生成代码...
+    正在创建库 ..\Debug\algo_plugin.lib 和对象 ..\Debug\algo_plugin.exp
+  algo_plugin.vcxproj -> D:\蓝目实习\项目三\algo-plug-master\algo-plug-master\algo_plugin\algo_plugin\..\Debug\algo_plugin.dll
